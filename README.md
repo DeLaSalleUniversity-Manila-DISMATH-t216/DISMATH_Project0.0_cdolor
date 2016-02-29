@@ -3,5 +3,5 @@
 ##MIT App Inventor 2 Screenshots
 
 
-![dismath](dismath.png)
-![dismath2](dismath2.png)
+![dismath](dismath.PNG)
+![dismath2](dismath2.PNG)
